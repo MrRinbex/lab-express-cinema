@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+.main-img{
+
+}
+.main-page{
+ position: relative; 
+}
+.right-block{
+  position:absolute
+}
